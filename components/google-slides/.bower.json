@@ -1,0 +1,45 @@
+{
+  "name": "google-slides",
+  "authors": [
+    "Addy Osmani <addyosmani@gmail.com>"
+  ],
+  "description": "A slide deck featuring offline-support, powered by Service Worker.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "slides"
+  ],
+  "main": "google-slides.html",
+  "license": "MIT",
+  "homepage": "https://github.com/addyosmani/google-slides/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.4.2",
+    "service-worker-cache": "wibblymat/service-worker-cache#~0.0.7",
+    "core-animated-pages": "Polymer/core-animated-pages#~0.4.2",
+    "paper-shadow": "Polymer/paper-shadow#~0.4.2",
+    "font-roboto": "Polymer/font-roboto#~0.4.2",
+    "paper-fab": "Polymer/paper-fab#~0.4.2",
+    "core-a11y-keys": "Polymer/core-a11y-keys#~0.4.2"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^0.7.3"
+  },
+  "resolutions": {
+    "font-roboto": "^0.4.0"
+  },
+  "_release": "2faa04314a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2faa04314aed04eb6426b01d22efe84f30d2bc4b"
+  },
+  "_source": "git://github.com/addyosmani/google-slides.git",
+  "_target": "master",
+  "_originalSource": "addyosmani/google-slides",
+  "_direct": true
+}
